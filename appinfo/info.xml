@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<!-- Mandatory fields -->
+	<id>wallpaper</id>
+	<name>Wallpaper</name>
+	<description>Background for the login screen</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<screenshot>https://github.com/tomneedham/oc-wallpaper/raw/master/screenshot.png</screenshot>
+</info>
