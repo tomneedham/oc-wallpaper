@@ -7,6 +7,7 @@
 	<version>0.2</version>
 	<licence>AGPL</licence>
 	<screenshot>https://github.com/tomneedham/oc-wallpaper/raw/master/screenshot.png</screenshot>
+        <category>Customization</category>
 	<dependencies>
 		<owncloud min-version="10.0" max-version="10" />
 	</dependencies>
