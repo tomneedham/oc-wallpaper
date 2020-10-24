@@ -3,14 +3,18 @@
 	<!-- Mandatory fields -->
 	<id>wallpaper</id>
 	<name>Wallpaper</name>
+        <author>Tom Needham</author>
 	<description>Background for the login screen</description>
-	<version>0.2.1</version>
+	<version>0.2.2</version>
 	<licence>AGPL</licence>
 	<screenshot>https://github.com/tomneedham/oc-wallpaper/raw/master/screenshot.png</screenshot>
-        <category>Customization</category>
-	<dependencies>
+        <category>customization</category>
+	<summary>Sets a nice background on the login screen</summary>
+        <dependencies>
 		<owncloud min-version="10.0" max-version="10" />
 	</dependencies>
+        <documentation>https://github.com/tomneedham/oc-wallpaper</documentation>
+        <website>https://github.com/tomneedham/oc-wallpaper</website>
 	<bugs>https://github.com/tomneedham/oc-wallpaper/issues</bugs>
 	<repository type="git">https://github.com/tomneedham/oc-wallpaper.git</repository>
 </info>
